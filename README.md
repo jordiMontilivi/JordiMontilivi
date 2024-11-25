@@ -8,11 +8,15 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 * ⚡ Modul Optatiu HTML5 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="15" height="15" alt="HTML5" /></a>, CSS <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </a>, Front-End (JS) <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="15" height="15" alt="JavaScript" /></a>, Back-End (PHP) <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="15" height="15" alt="PHP" /></a>
 * ⚡ Entorns Control Versions (Git) <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="15" height="15" alt="Git" /></a>, Proves Unitaries, Debug...
 
-## Skills
-<p align="center">
-    [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,css,js,php)](https://skillicons.dev)
-</p>
+## Skills  
 
+[![My Programming Skills](https://skillicons.dev/icons?i=dotnet,cs,html,css,js,php,py,c,cpp,bash)](https://skillicons.dev)
+
+[![My DataBase Skills](https://skillicons.dev/icons?i=mysql,mariadb,firebase,mongodb,aws)](https://skillicons.dev)
+
+[![My Tech Skills](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,docker,kubernetes,arduino,figma)](https://skillicons.dev)
+
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
@@ -45,7 +49,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
-
+-->
 
 ### Socials
 
@@ -63,13 +67,11 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
  
 
 
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordimontilivi&label=Profile%20views&color=0e75b6&style=flat" alt="jordimontilivi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordimontilivi" alt="jordimontilivi" /></a> </p>
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jordimontilivi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordimontilivi" height="30" width="40" /></a>
@@ -99,6 +101,8 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordimontilivi&show_icons=true&locale=en&layout=compact" alt="jordimontilivi" /></p>
 
