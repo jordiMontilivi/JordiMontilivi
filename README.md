@@ -9,8 +9,9 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 * ⚡ Entorns Control Versions (Git) <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="15" height="15" alt="Git" /></a>, Proves Unitaries, Debug...
 
 ## Skills
-
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,php)](https://skillicons.dev)
+<p align="center">
+    [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,css,js,php)](https://skillicons.dev)
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
