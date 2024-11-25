@@ -54,7 +54,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordimontilivi&label=Profile%20views&color=0e75b6&style=flat" alt="jordimontilivi" /> </p>
 
@@ -92,4 +92,3 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordimontilivi&show_icons=true&locale=en&layout=compact" alt="jordimontilivi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordimontilivi&show_icons=true&locale=en" alt="jordimontilivi" /></p>
