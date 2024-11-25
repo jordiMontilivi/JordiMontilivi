@@ -10,11 +10,13 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ## Skills  
 
-[![My Programming Skills](https://skillicons.dev/icons?i=dotnet,cs,html,css,js,php,py,c,cpp,bash)](https://skillicons.dev)
+[![My Programming Skills](https://skillicons.dev/icons?i=dotnet,cs,html,css,js,php,py,c,cpp,bash,mysql,firebase,mongodb,aws,visualstudio,vscode,git,github,docker,kubernetes,arduino,figma)](https://skillicons.dev)
 
-[![My DataBase Skills](https://skillicons.dev/icons?i=mysql,mariadb,firebase,mongodb,aws)](https://skillicons.dev)
+<!--
+[![My DataBase Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb,aws)](https://skillicons.dev)
 
 [![My Tech Skills](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,docker,kubernetes,arduino,figma)](https://skillicons.dev)
+-->
 
 <!--
 <p align="center">
