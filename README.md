@@ -1,3 +1,8 @@
+<style>
+	h1{
+		color:"red";
+	}
+</style>
 <!--
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Soc Jordi Fons
 ==================================================================================================================================  
@@ -41,51 +46,88 @@ Proves Unitàries, Debug...
 </div>
 -->
 
-<div style="margin-left: 20%; line-height: 1.6;">
-  <p>🖥️ <strong>Professor d'Informàtica 507</strong></p>
-  <p>📫 <a href="mailto:jordi.fons@insitutmontilivi.cat">jordi.fons@insitutmontilivi.cat</a></p>
-
-  <p>⚡ <strong>Programació C#</strong><br>  
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="17" height="17" />
-    </a>, 
-    <strong>WPF</strong> 
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20" />
-    </a>
-  </p>
-
-  <p>⚡ <strong>Mòdul Optatiu HTML5</strong>  
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="15" height="15" alt="HTML5" />
-    </a>, 
-    <strong>CSS</strong>  
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20" />
-    </a>, 
-    <strong>Front-End (JS)</strong>  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="15" height="15" alt="JavaScript" />
-    </a>, 
-    <strong>Back-End (PHP)</strong>  
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="22" height="22" alt="PHP" />
-    </a>
-  </p>
-
-  <p>⚡ <strong>Entorns de Control de Versions (Git)</strong>  
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="15" height="15" alt="Git" />
-    </a>, Proves Unitàries, Debug...
-  </p>
+<div align="center">
+    <h2>🖥️ <strong>Professor d'Informàtica 507</strong></h2>
+    <p>📫 <a href="mailto:jordi.fons@insitutmontilivi.cat">jordi.fons@insitutmontilivi.cat</a></p>
+    <table align="center" border="none">
+        <tr>
+            <td width="33%" >
+                <h3 align="center">🎯 <strong>Programació POO C#</strong></h3>
+                <p>  <strong> ♠️ Llenguatge C#</strong>
+                    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+                            alt="csharp" width="17" height="17" />
+                    </a><br>
+                    <strong> ♥️ .NET</strong>
+                    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+                            alt="dotnet" width="20" height="20" />
+                    </a><br>
+                    <strong> ♦️ Entorn Gràfic (WPF)</strong>
+                    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+                            alt="dotnet" width="20" height="20" />
+                    </a>
+                </p>
+            </td>
+            <td width="33%" >
+                <h3 align="center">🎯 <strong>Mòdul Optatiu Web</strong></h3>
+                <p>    
+                    <strong> ♠️ HTML5</strong>
+                    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+                            width="15" height="15" alt="HTML5" />
+                    </a><br>
+                    <strong> ♥️ CSS</strong>
+                    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                            alt="css3" width="20" height="20" />
+                    </a><br>
+                    <strong> ♦️ Front-End (JS)</strong>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+                            width="15" height="15" alt="JavaScript" />
+                    </a><br>
+                    <strong> ♣️ Back-End (PHP)</strong>
+                    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
+                            width="22" height="22" alt="PHP" />
+                    </a>
+                </p>
+            </td>
+            <td width="33%">
+                <h3 align="center">🎯 <strong>Entorns de Desenvolupament</strong></h3>
+                <p><strong> ♠️ Control de Versions (Git)</strong>
+                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+                            width="15" height="15" alt="Git" />
+                    </a><br>
+                    <strong> ♥️ IDE (VS)</strong>
+                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+                            width="15" height="15" alt="Git" />
+                    </a><br>
+                    <strong> ♦️ Proves Unitàries, Debug...</strong>
+                </p>
+            </td>
+        </tr>
+    </table>
 </div>
-
+  
+  ## <p align="center">Skills </p> 
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,php,py,c,cpp,bash,mysql,firebase,mongodb,aws,visualstudio,vscode,git,github,docker,kubernetes,arduino,figma&perline=11" />
+    </a>
+  </p>
+<!--
 ## <p align="center">Skills </p> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,php,py,c,cpp,bash,mysql,firebase,mongodb,aws,visualstudio,vscode,git,github,docker,kubernetes,arduino,figma&perline=11" />
   </a>
 </p>
+-->
 <!--
 [![My Programming Skills](https://skillicons.dev/icons?i=dotnet,cs,html,css,js,php,py,c,cpp,bash,mysql,firebase,mongodb,aws,visualstudio,vscode,git,github,docker,kubernetes,arduino,figma&perline=11)](https://skillicons.dev)
 -->
@@ -96,7 +138,6 @@ Proves Unitàries, Debug...
 <a href="https://www.github.com/JordiMontilivi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
 <a href="https://www.linkedin.com/in/JordiMontilivi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
-
 <h2 align="center">GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
