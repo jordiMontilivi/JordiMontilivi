@@ -48,42 +48,44 @@ Proves Unitàries, Debug...
         <tr>
             <td width="33%" >
                 <h3 align="center">🎯 <strong>Programació POO C#</strong></h3>
-                <p>  <strong> ♠️ Llenguatge C#</strong>
+                <p>  <strong> ♠️ Llenguatge C# </strong>
                     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
                             alt="csharp" width="17" height="17" />
                     </a><br>
-                    <strong> ♥️ .NET</strong>
+                    <strong> ♥️ .NET FrameWork </strong>
                     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+                        <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+                            alt="dotnet" width="20" height="20" />-->
+			    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_plain_wordmark_logo_icon_146545.png"
                             alt="dotnet" width="20" height="20" />
                     </a><br>
-                    <strong> ♦️ Entorn Gràfic (WPF)</strong>
+                    <strong> ♦️ Entorn Gràfic (WPF) </strong>
                     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-                            alt="dotnet" width="20" height="20" />
+		        <img src="https://www.ambient-it.net/wp-content/uploads/2016/04/wpf-logo-175.png.webp" 
+			    alt="dotnet" width="20" height="20" />
                     </a>
                 </p>
             </td>
             <td width="33%" >
                 <h3 align="center">🎯 <strong>Mòdul Optatiu Web</strong></h3>
                 <p>    
-                    <strong> ♠️ HTML5</strong>
+                    <strong> ♠️ HTML 5 </strong>
                     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
                             width="15" height="15" alt="HTML5" />
                     </a><br>
-                    <strong> ♥️ CSS</strong>
+                    <strong> ♥️ CSS 3 </strong>
                     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                             alt="css3" width="20" height="20" />
                     </a><br>
-                    <strong> ♦️ Front-End (JS)</strong>
+                    <strong> ♦️ Front-End (JS) </strong>
                     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
                             width="15" height="15" alt="JavaScript" />
                     </a><br>
-                    <strong> ♣️ Back-End (PHP)</strong>
+                    <strong> ♣️ Back-End (PHP) </strong>
                     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
                             width="22" height="22" alt="PHP" />
@@ -92,17 +94,17 @@ Proves Unitàries, Debug...
             </td>
             <td width="33%">
                 <h3 align="center">🎯 <strong>Entorns de Desenvolupament</strong></h3>
-                <p><strong> ♠️ Control de Versions (Git)</strong>
+                <p><strong> ♠️ Control de Versions (Git) </strong>
                     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
                             width="15" height="15" alt="Git" />
                     </a><br>
-                    <strong> ♥️ IDE (VS)</strong>
-                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
-                            width="15" height="15" alt="Git" />
-                    </a><br>
-                    <strong> ♦️ Proves Unitàries, Debug...</strong>
+                    <strong> ♥️ IDE (VS /VS Code) </strong>
+                      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+			 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" 
+			   width="15" height="15" alt="VS Code" />
+                      </a><br>
+                    <strong> ♦️ Proves Unitàries, Debug... </strong>
                 </p>
             </td>
         </tr>
